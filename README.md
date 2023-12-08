@@ -1,4 +1,4 @@
-## Oii Amanda Mesquita aqui, atualamente trabalho com front-end!
+## Oii Amanda Mesquita aqui, atualmente trabalho com front-end!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Amanda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
