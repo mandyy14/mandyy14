@@ -14,6 +14,9 @@
 <h4 align="center">✨ I'm currently a Frontend Developer with experience in ReactJS, TypeScript, and JavaScript, focused on building modern, accessible, and high-performance interfaces. I'm passionate about delivering high-quality solutions that prioritize usability and design consistency.</h4>
 
  <div align="center">
+
+<br></br>
+
 <!-- Profile Views -->
 <a href="https://github.com/mandyy14" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=mandyy14&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" 
@@ -34,21 +37,7 @@
 
 </div>
 
-<!-- <img align="right" alt="coding-gif" width="450" src="videoframe_45456.png"> -->
-
-<!-- about me -->
-<h3 align="left">💫 About Me</h3>
-
-<h4 align="left">
-🌱 I’m currently in the final year of my Systems Analysis and Development degree at FIAP, continuously improving my programming skills and deepening my knowledge in frontend and backend technologies.</br> <br/>
-
-💬 My technical stack includes HTML5, CSS3, Tailwind CSS, Styled Components, JavaScript, TypeScript, ReactJS, Next.js, and React Native. I have experience consuming RESTful APIs, writing unit tests with Jest, and using Git, GitHub, Postman, Swagger, and Figma.</br>
-
-⚡ I’m expanding my backend knowledge with Java (Spring Boot), C# .NET, PL/SQL, MongoDB, and Docker. I’m also exploring topics like software architecture (Archi), Azure, and Generative AI.</br>
-
-✨ I value clean code, reusable components, and delivering solutions with real impact.
-
-</h4>
+<br></br>
 
 <div align="center">
   <h3>🧲 Connect me :</h3>
@@ -60,14 +49,15 @@
 </div></h4>
 
 </div>
+
+<br></br>
+
 <!-- git stat-->
 <h3 align="center">🌱 Github Status</h3>
 <br>
 <div align="center">
   <img width="435" src="https://github-readme-stats.vercel.app/api?username=mandyy14&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10"/>
   <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandyy14&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
 </div>
 
