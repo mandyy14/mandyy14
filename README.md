@@ -37,11 +37,9 @@
 <!-- <img align="right" alt="coding-gif" width="450" src="videoframe_45456.png"> -->
 
 <!-- about me -->
- <h3 align="left">💫 About Me</h3>
+<h3 align="left">💫 About Me</h3>
 
-<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<div align="left">-->
-<h4>
+<h4 align="left">
 🌱 I’m currently in the final year of my Systems Analysis and Development degree at FIAP, continuously improving my programming skills and deepening my knowledge in frontend and backend technologies.</br> <br/>
 
 💬 My technical stack includes HTML5, CSS3, Tailwind CSS, Styled Components, JavaScript, TypeScript, ReactJS, Next.js, and React Native. I have experience consuming RESTful APIs, writing unit tests with Jest, and using Git, GitHub, Postman, Swagger, and Figma.</br>
@@ -50,7 +48,9 @@
 
 ✨ I value clean code, reusable components, and delivering solutions with real impact.
 
-</h4> <div align="center">
+</h4>
+
+<div align="center">
   <h3>🧲 Connect me :</h3>
 <a href="mailto:amandamesquita73638@gmail.com">
   <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a> 
