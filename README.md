@@ -11,15 +11,12 @@
 
 <h4>
 🌱 I’m currently in the final year of my Systems Analysis and Development degree at FIAP, continuously improving my programming skills and deepening my knowledge in frontend and backend technologies.</br>
-
 </br>
 
 💬 My technical stack includes HTML5, CSS3, Tailwind CSS, Styled Components, JavaScript, TypeScript, ReactJS, Next.js, and React Native. I have experience consuming RESTful APIs, writing unit tests with Jest, and using Git, GitHub, Postman, Swagger, and Figma.
-
 </br>
 
 ⚡ I’m expanding my backend knowledge with Java (Spring Boot), C# .NET, PL/SQL, MongoDB, and Docker. I’m also exploring topics like software architecture (Archi), Azure, and Generative AI.
-
 </br>
 
 ✨ I value clean code, reusable components, and delivering solutions with real impact.
