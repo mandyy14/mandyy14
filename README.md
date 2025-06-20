@@ -75,7 +75,6 @@
 
 <!-- lang-->
 <h3 align="center">🛠️ Languages & Tools I've Worked With</h3>
-<br/>
 
 <!-- 🎨 Frontend -->
 <h4 align="center">🎨 Frontend</h4>
