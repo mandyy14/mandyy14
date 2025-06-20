@@ -10,12 +10,10 @@
 <!-- Greeting -->
 </h1>
 <h1 align="center">Hi! I'm Amanda Mesquita!
-</h1>
 
-<h4 align="left">✨ I'm currently a Frontend Developer with experience in ReactJS, TypeScript, and JavaScript, focused on building modern, accessible, and high-performance interfaces. I'm passionate about delivering high-quality solutions that prioritize usability and design consistency.</h4>
+<h4 align="center">✨ I'm currently a Frontend Developer with experience in ReactJS, TypeScript, and JavaScript, focused on building modern, accessible, and high-performance interfaces. I'm passionate about delivering high-quality solutions that prioritize usability and design consistency.</h4>
 
  <div align="center">
-
 <!-- Profile Views -->
 <a href="https://github.com/mandyy14" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=mandyy14&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" 
