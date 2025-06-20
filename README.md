@@ -73,6 +73,22 @@
 
 <br/><br/>
 
+<!-- top repo and teck stack-->
+<div align="center">
+  <h3>⭐️ Best Repositories</h3>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/mandyy14/deepseek">
+      <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=mandyy14&repo=deepseek&theme=nord&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
+    </a>
+    <a href="https://github.com/AlertaVermelho/RedSignal">
+      <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=mandyy14&repo=RedSignal&theme=nord&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
+    </a>
+  </div>
+ 
+</div>
+
+<br></br>
+
 <!-- lang-->
 <h3 align="center">🛠️ Languages & Tools I've Worked With</h3>
 
@@ -111,20 +127,6 @@
 </div>
 
 <br/>
-
-<!-- top repo and teck stack-->
-<div align="center">
-  <h3>⭐️ Best Repositories</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/mandyy14/deepseek">
-      <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=mandyy14&repo=deepseek&theme=nord&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
-    </a>
-    <a href="https://github.com/AlertaVermelho/RedSignal">
-      <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=mandyy14&repo=RedSignal&theme=nord&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
-    </a>
-  </div>
- 
-</div>
 
 </div>
 
